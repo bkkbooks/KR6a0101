@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0101/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雜阿含經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0101.xml
+    old_id: T02n0101
+hash: sha256:74cd663c989f4fb54f345519991d903a1d5c0e9543f28aa83cec33a40551b582
