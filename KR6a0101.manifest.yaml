@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0101_000.yaml, hash: 'sha256:74cd663c989f4fb54f345519991d903a1d5c0e9543f28aa83cec33a40551b582'}
-  - {seq: 1, filename: KR6a0101_001.yaml, hash: 'sha256:5b9ee2aa2e5f1b5bb1762c89e7814701586e42cea6dc284ca18ec297aaa819f4'}
+  - {seq: 1, filename: KR6a0101_001.yaml, hash: 'sha256:4ec986d791d63eec7afd28d71f1708023b3eaa97816d51aff69dcce92661000e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0101_001.markers.yaml, hash: 'sha256:9d938f3914d85890f78f7f6a2bfd2556927ab3762b60de71450eae255e8fe0d2'}
+  - {seq: 0, role: markers, filename: assets/KR6a0101_000.markers.yaml, hash: 'sha256:2437b956890761fb0ad5c959c38728578b108b002118398b5487f8fdd4f0cb44'}
+  - {seq: 1, role: markers, filename: assets/KR6a0101_001.markers.yaml, hash: 'sha256:dc5006c5435616758110d09eda4ec9bea37fe437853a5b1c320fcf6694416202'}
 table_of_contents:
 - ref:
     seq: 1
@@ -318,7 +319,4 @@ table_of_contents:
   label: 27 佛說七處三觀經
   type: mulu
   level: 1
-hash: sha256:6c19e690ec4e3be871fc8a13ff395de9af92ffa72467ab7afbf68746245138b2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:86399bf73b035eef92e7b90542190fdf04747d21cf6f311193aa53426035dedc
