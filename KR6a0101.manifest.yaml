@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0101/v1
 canonical_location: https://kanripo.org/bkk/KR6a0101/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 雜阿含經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0101_000.yaml, hash: 'sha256:74cd663c989f4fb54f345519991d903a1d5c0e9543f28aa83cec33a40551b582'}
-  - {seq: 1, filename: KR6a0101_001.yaml, hash: 'sha256:4ec986d791d63eec7afd28d71f1708023b3eaa97816d51aff69dcce92661000e'}
+  - {seq: 1, filename: KR6a0101_001.yaml, hash: 'sha256:cbebf17688861f688837d24923c5dc10f4a7f5ebca8e89f08186f87d67ab48ea'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0101_000.markers.yaml, hash: 'sha256:2437b956890761fb0ad5c959c38728578b108b002118398b5487f8fdd4f0cb44'}
-  - {seq: 1, role: markers, filename: assets/KR6a0101_001.markers.yaml, hash: 'sha256:dc5006c5435616758110d09eda4ec9bea37fe437853a5b1c320fcf6694416202'}
+  - {seq: 1, role: markers, filename: assets/KR6a0101_001.markers.yaml, hash: 'sha256:cb6df45b8b9bd34569ff3cd73a3d94ff865b783b55e189988d02f606f3bb6372'}
 table_of_contents:
 - ref:
     seq: 1
@@ -319,4 +319,7 @@ table_of_contents:
   label: 27 佛說七處三觀經
   type: mulu
   level: 1
-hash: sha256:86399bf73b035eef92e7b90542190fdf04747d21cf6f311193aa53426035dedc
+hash: sha256:86ab82c8a1f9c644cb378ffa3b4a792a6cf3dcc5dca0c0d95e284c670f2e9222
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
